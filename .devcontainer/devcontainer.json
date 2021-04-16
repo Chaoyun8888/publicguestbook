@@ -1,6 +1,6 @@
 {
     "extensions": [
         "dbaeumer.vscode-eslint",
-        "eamodio.gitlensddd"
+        "eamodio.gitlens"
     ]
 }
