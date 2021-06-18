@@ -2,5 +2,11 @@
     "extensions": [
         "dbaeumer.vscode-eslint",
         "eamodio.gitlens"
-    ]
+	],
+	"portsAttributes": {
+		"5345": {
+			"label": "ghfg"
+		}
+	}
 }
+https://chaoyun8888-vscode-remote-try-node-977w57w4539r6x-3000.ppe.githubpreview.dev/
